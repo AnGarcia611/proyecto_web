@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es ">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PlacaBase</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"> 
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+  <!-- BARRA DE NAVEGACION -->
+  <nav>
+    <div class="nav-wrapper">
+      <a href="#" class="brand-logo"><i class="material-icons">cloud</i></a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="sass.html">Sass</a></li>
+        <li><a href="badges.html">Components</a></li>
+        <li><a href="collapsible.html">JavaScript</a></li>
+      </ul>
+    </div>
+  </nav>
+  <!-- CONTENIDO -->
+  <main>
+    <div class="row">
+      <div class="col s10 offset-s1">
+        <p class="center-align z-depth-1 blue-grey lighten-5 flow-text">Diseño de placa base por Andres Garcia</p>
+        <div class="row" >
+          <!-- DIV DEL CANCA ON LA ANIMACION PRINCIPAL -->
+          <div class="col s9">
+            <div class="card blue-grey lighten-5">
+              <div class="card-content">
+                <div id="canva" class="container valign-wrapper"><img src="" alt="" id="imagen" class="responsive-img"> </div>
+              </div>
+            </div>  
+          </div>
+          <!-- MENU LATERAL DEL CONTENIDO -->
+          <div class="col s3">
+            <div class="card blue-grey lighten-5">
+              <div class="card-content">
+                <span class="card-title">Opciones</span>
+                
+                <div class="section">
+                  <select class="browser-default" id="select_1">
+                    <option value="1">Americanos</option>
+                    <option value="2">Europeos</option>
+                  </select>
+                </div>
+
+                <div class="section">
+                  <select class="browser-default" id="select_2">
+                  </select>
+                </div>
+                
+                <div class="section">
+                  <select class="browser-default" id="select_3">
+                    <option value='3/4'>3/4"</option>
+                    <option value='7/8'>7/8"</option>
+                    <option value='1'>1"</option>
+                    <option value='1-1/4'>1-1/4</option>
+                    <option value='1-1/2'>1-1/2"</option>
+                    <option value='1-3/4'>1-3/4"</option>
+                    <option value='2'>2"</option>
+                    <option value='2-1/2'>2-1/2"</option>
+                  </select>
+                </div>
+
+                <div class="section">
+                  <select class="browser-default" id="select_4">
+                    <option value="4">4</option>
+                    <option value="6">6</option>
+                    <option value="8">8</option>
+                  </select>
+                </div>
+
+                <div class="section">
+                  <select class="browser-default" id="select_5">
+                    <option value="Rectangular">Rectangular</option>
+                    <option value="Cuadradro">Cuadradro</option>
+                  </select>
+                </div>
+                <a href="#" class="waves-effect waves-light btn" id="boton_1">Actualizar</a>
+                <a href="#" class="waves-effect waves-light btn" id="boton_2">DXF</a>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </main>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="static/auxiliary/profiles.json"></script>
+  <script src="static/js/img.js"></script>
+  <script src="static/js/script.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</body>
+</html>

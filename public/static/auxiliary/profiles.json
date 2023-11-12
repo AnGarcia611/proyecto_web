@@ -1,0 +1,2270 @@
+[
+    {
+        "Name": "W4x13",
+        "Type": "American"
+    },
+    {
+        "Name": "W5x16",
+        "Type": "American"
+    },
+    {
+        "Name": "W5x19",
+        "Type": "American"
+    },
+    {
+        "Name": "W6x9",
+        "Type": "American"
+    },
+    {
+        "Name": "W6x12",
+        "Type": "American"
+    },
+    {
+        "Name": "W6x16",
+        "Type": "American"
+    },
+    {
+        "Name": "W6x15",
+        "Type": "American"
+    },
+    {
+        "Name": "W6x20",
+        "Type": "American"
+    },
+    {
+        "Name": "W6x25",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x10",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x13",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x15",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x18",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x21",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x24",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x28",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x31",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x35",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x40",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x48",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x58",
+        "Type": "American"
+    },
+    {
+        "Name": "W8x67",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x12",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x15",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x17",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x19",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x22",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x26",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x30",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x33",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x39",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x45",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x49",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x54",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x60",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x68",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x77",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x88",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x100",
+        "Type": "American"
+    },
+    {
+        "Name": "W10x112",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x14",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x16",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x19",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x22",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x26",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x30",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x35",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x40",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x45",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x50",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x53",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x58",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x65",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x72",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x79",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x87",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x96",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x106",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x120",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x136",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x152",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x170",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x190",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x210",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x230",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x252",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x279",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x305",
+        "Type": "American"
+    },
+    {
+        "Name": "W12x336",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x22",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x26",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x30",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x34",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x38",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x43",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x48",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x53",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x61",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x68",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x74",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x82",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x90",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x99",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x109",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x120",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x132",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x145",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x159",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x176",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x193",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x211",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x233",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x257",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x283",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x311",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x342",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x370",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x398",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x426",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x455",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x500",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x550",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x605",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x665",
+        "Type": "American"
+    },
+    {
+        "Name": "W14x730",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x26",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x31",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x36",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x40",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x45",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x50",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x57",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x67",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x77",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x89",
+        "Type": "American"
+    },
+    {
+        "Name": "W16x100",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x35",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x40",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x46",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x50",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x55",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x60",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x65",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x71",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x76",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x86",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x97",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x106",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x119",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x130",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x143",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x158",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x175",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x192",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x211",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x234",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x258",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x283",
+        "Type": "American"
+    },
+    {
+        "Name": "W18x311",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x44",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x50",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x57",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x62",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x68",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x73",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x83",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x93",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x101",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x111",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x122",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x132",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x147",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x166",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x182",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x201",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x223",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x248",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x275",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x300",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x333",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x364",
+        "Type": "American"
+    },
+    {
+        "Name": "W21x402",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x55",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x62",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x68",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x76",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x84",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x94",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x103",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x104",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x117",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x131",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x146",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x162",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x176",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x192",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x207",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x229",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x250",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x279",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x306",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x335",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x370",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x408",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x450",
+        "Type": "American"
+    },
+    {
+        "Name": "W24x492",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x84",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x94",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x102",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x114",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x129",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x146",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x161",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x178",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x194",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x217",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x235",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x258",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x281",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x307",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x336",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x368",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x407",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x448",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x494",
+        "Type": "American"
+    },
+    {
+        "Name": "W27x539",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x90",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x99",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x108",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x116",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x124",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x132",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x148",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x173",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x191",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x211",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x235",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x261",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x292",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x326",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x357",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x391",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x433",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x477",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x526",
+        "Type": "American"
+    },
+    {
+        "Name": "W30x581",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x118",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x130",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x141",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x152",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x169",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x201",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x221",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x241",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x263",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x291",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x318",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x354",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x387",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x424",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x468",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x515",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x567",
+        "Type": "American"
+    },
+    {
+        "Name": "W33x619",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x135",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x150",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x160",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x170",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x182",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x194",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x210",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x232",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x256",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x230",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x245",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x260",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x280",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x300",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x328",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x359",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x393",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x439",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x485",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x527",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x588",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x650",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x720",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x798",
+        "Type": "American"
+    },
+    {
+        "Name": "W36x848",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x149",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x167",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x183",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x199",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x215",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x249",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x277",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x297",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x324",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x362",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x397",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x436",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x480",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x531",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x593",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x655",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x192",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x221",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x244",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x268",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x298",
+        "Type": "American"
+    },
+    {
+        "Name": "W40x328",
+        "Type": "American"
+    },
+    {
+        "Name": "W44x198",
+        "Type": "American"
+    },
+    {
+        "Name": "W44x224",
+        "Type": "American"
+    },
+    {
+        "Name": "W44X248",
+        "Type": "American"
+    },
+    {
+        "Name": "W44x285",
+        "Type": "American"
+    },
+    {
+        "Name": "IPE A 100",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 100",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 120",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 120",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 140",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 140",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 160",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 160",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 180",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 180",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 180",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 200",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 200",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 200",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 220",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 220",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 220",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 240",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 240",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 240",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 270",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 270",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 270",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 300",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 300",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 300",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 330",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 330",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 330",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 360",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 360",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 360",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 400",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 400",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 400",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 450",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 450",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 450",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 500",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 500",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 500",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 550",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 550",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 550",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE A 600",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 600",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE O 600",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 750 x 147",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 750 x 173",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPE 750 x 196",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 100 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 100 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 100 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 100 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 120 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 120 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 120 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 120 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 140 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 140 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 140 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 140 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 160 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 160 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 160 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 160 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 180 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 180 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 180 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 180 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 200 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 200 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 200 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 200 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 220 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 220 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 220 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 220 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 240 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 240 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 240 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 240 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 260 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 260 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 260 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 260 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 280 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 280 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 280 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 280 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 300 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 300 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 300 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 300 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 320 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 320 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 320 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 320 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 340 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 340 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 340 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 340 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 360 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 360 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 360 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 360 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 400 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 400 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 400 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 400 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 450 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 450 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 450 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 450 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 500 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 500 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 500 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 500 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 550 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 550 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 550 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 550 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 600 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 600 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 600 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 600 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 600 x 337",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 600 x 399",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 650 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 650 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 650 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 650 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 650 x 343",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 650 x 407",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 700 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 700 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 700 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 700 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 700 x 352",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 700 x 418",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 800 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 800 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 800 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 800 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 800 x 373",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 800 x 444",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 900 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 900 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 900 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 900 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 900 x 391",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 900 x 466",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 1000 AA",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 1000 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 1000 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 1000 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 1000 x 393",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 1000 x 409",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 1000 x 488",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HE 1000 x 579",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 342",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 365",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 387",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 417",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 446",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 488",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 534",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 585",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 653",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 784",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 920 x 967",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1000 x 296",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1000 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1000 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1000 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1000 x 477",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1000 x 554",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1000 x 642",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1000 x 748",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1000 x 883",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1100 A",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1100 B",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1100 M",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HL 1100 R",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 260 x 54.1",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 260 x 68.2",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 260 x 93.0",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 260 x 114",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 260 x 142",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 260 x 172",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 320 x 74.2",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 320 x 97.6",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 320 x 127",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 320 x 158",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 320 x 198",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 320 x 245",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 320 x 300",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 360 x 134",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 360 x 147",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 360 x 162",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 360 x 179",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 360 x 196",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 187",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 216",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 237",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 262",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 287",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 314",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 347",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 382",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 421",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 463",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 509",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 551",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 592",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 634",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 677",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 744",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 818",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 900",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 990",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HD 400 x 1086",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 200 x 43",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 200 x 53",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 220 x 57",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 260 x 75",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 260 x 87",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 305 x 79",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 305 x 88",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 305 x 95",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 305 x 110",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 305 x 126",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 305 x 149",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 305 x 180",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 305 x 186",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 305 x 223",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 320 x 88",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 320 x 103",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 320 x 117",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 320 x 147",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 320 x 184",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 360 x 84",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 360 x 109",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 360 x 133",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 360 x 152",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 360 x 174",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 360 x 180",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 400 x 122",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 400 x 140",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 400 x 158",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 400 x 176",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 400 x 194",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 400 x 213",
+        "Type": "Euro"
+    },
+    {
+        "Name": "HP 400 x 231",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 120",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 140",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 160",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 180",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 200",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 220",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 240",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 260",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 280",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 300",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 320",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 340",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 360",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 380",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 400",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 450",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 500",
+        "Type": "Euro"
+    },
+    {
+        "Name": "IPN 550",
+        "Type": "Euro"
+    }
+]

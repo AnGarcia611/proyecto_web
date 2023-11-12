@@ -1,0 +1,19 @@
+/* Reset los valores por defecto */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #333;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#canva{
+	background-color: aquamarine;
+	height: 35.5rem;
+  
+}
