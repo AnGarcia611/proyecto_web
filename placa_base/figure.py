@@ -16,7 +16,6 @@ def figure(profile,bolt, n_bolts,fit):
 
     ax.fill(x,y, "red")
 
-
     pernos = Bolt(bolt)
     pernos_shape = pernos.bolts_shape(perfil,fit=fit,number=n_bolts)
 
@@ -46,5 +45,32 @@ def figure(profile,bolt, n_bolts,fit):
     ax.spines['left'].set_visible(False)
     ax.spines['right'].set_visible(False)
 
-    
     return fig
+
+def dxf(profile,bolt, n_bolts,fit):
+    from placa_base.geometry import Profile, Bolt, BPlate
+    # from geometry import Profile, Bolt, BPlate
+    
+    perfil = Profile(profile)
+    shape = perfil.profile_shape()
+    pernos = Bolt(bolt)
+    pernos_shape = pernos.bolts_shape(perfil,fit=fit,number=n_bolts)
+
+    placa = BPlate()
+    bp_shape = placa.bp_shape(profile=perfil,bolt=pernos,fit=fit)
+
+    ### CAD
+    import ezdxf
+    doc = ezdxf.new('R2010',setup=True)
+    doc.header["$INSUNITS"] = 4
+
+    msp = doc.modelspace()
+
+    msp.add_lwpolyline(shape)
+    msp.add_lwpolyline(bp_shape)
+
+    for centro in pernos_shape:
+        msp.add_circle(centro, pernos.bolt_diameter/2)
+        msp.add_circle(centro, pernos.hole_diameter/2)
+
+    return doc

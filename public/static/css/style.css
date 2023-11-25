@@ -13,7 +13,12 @@ html, body {
 }
 
 #canva{
-	background-color: aquamarine;
 	height: 35.5rem;
   
+}
+
+#imagen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

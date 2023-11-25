@@ -1,5 +1,3 @@
-
-
 $(document).ready(function() {
     $('#boton_1').on('click', async function() {
 
@@ -44,4 +42,35 @@ $(document).ready(function() {
       // Lee el objeto Blob
       reader.readAsDataURL(imageBlob);
     });
+
+
+  });
+
+document.getElementById('boton_2').addEventListener('click', function() {
+    const select2Value = $(document.getElementById('select_2')).val();
+    const select3Value = $(document.getElementById('select_3')).val();
+    const select4Value = $(document.getElementById('select_4')).val();
+    const select5Value = $(document.getElementById('select_5')).val();
+    var fit = false
+
+    if (select5Value == "Rectangular") {
+      fit = true;
+    }
+    
+    if (select5Value == "Cuadrado"){
+      fit = false;
+    }
+
+    const headers = {
+        select2: select2Value,
+        select3: select3Value,
+        select4: select4Value,
+        select5: fit,
+      };
+
+    // Realiza una solicitud a la API
+    const url = `/dxf?profile=${select2Value}&bolt=${select3Value}&n_bolts=${select4Value}&fit=${fit}`;
+  
+    
+    n.href = url;
   });

@@ -2,25 +2,33 @@ from fastapi import FastAPI
 from fastapi.responses import HTMLResponse, FileResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
 
 app = FastAPI()
 
+app.mount("/public",StaticFiles(directory="./public"),name = "public")
 app.mount("/static",StaticFiles(directory="./public/static"),name = "static")
-
 
 @app.get("/", response_class=HTMLResponse)
 async def root():
     html_address = "./public/static/html/index.html"
     return FileResponse(html_address, status_code=200)
 
+
 @app.get("/update")
-async def update(profile: str = 'W8x15', bolt: str = "7/8", n_bolts: int = 4,fit: bool = True):
+def update(profile: str = 'W8x15', bolt: str = "7/8", n_bolts: int = 4,fit: bool = True):
     from placa_base.figure import figure
     img = figure(profile = profile,bolt=bolt, n_bolts=n_bolts,fit=fit)
-    img.savefig("image.png")
-    return FileResponse("image.png", filename="image.png")
+    img.savefig("imagen.png")
+    return FileResponse('imagen.png', filename="image.png")
 
+
+@app.get("/dxf")
+def dxf(profile: str = 'W8x15', bolt: str = "7/8", n_bolts: int = 4,fit: bool = True):
+    from placa_base.figure import dxf
+    
+    dxf = dxf(profile = profile,bolt=bolt, n_bolts=n_bolts,fit=fit)
+    dxf.saveas("drawing.dxf")
+    return FileResponse('drawing.dxf', filename="drawing.dxf")
 
 origins = [
     "http://localhost.tiangolo.com",
